@@ -1,7 +1,6 @@
 //counter code
 console.log("loaded");
 var button = document.getElementById("counter");
-var counter = 0;
 button.onclick = function() {
   //Create a request object
   var request = new XMLHttpRequest();
