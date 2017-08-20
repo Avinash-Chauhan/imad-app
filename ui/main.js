@@ -1,5 +1,5 @@
 //counter code
-Console.log("loaded");
+console.log("loaded");
 var button = document.getElementById("counter");
 var counter = 0;
 button.onclick = function() {
